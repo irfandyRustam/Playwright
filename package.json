@@ -1,0 +1,21 @@
+{
+  "name": "playwright-nodejs",
+  "version": "1.0.0",
+  "description": "Playwright Beginner Tutorials - NodeJS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfandyRustam/Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irfandyRustam/Playwright/issues"
+  },
+  "homepage": "https://github.com/irfandyRustam/Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
