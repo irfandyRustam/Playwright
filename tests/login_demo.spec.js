@@ -26,7 +26,7 @@ test('Demo Login Test 2', async ({page}) => {
 test.only('Demo Login Test 3', async ({page}) => {
 
   await page.goto('https://admin-demo.nopcommerce.com/');
-  await page.pause();
+  // await page.pause();
 
   await page.getByLabel('Email:').press('Control+a');
   await page.getByLabel('Email:').fill('admin@yourstore.com');
